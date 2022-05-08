@@ -1,0 +1,17 @@
+{
+  "name": "ashuramaru",
+  "version": "1.0.0",
+  "description": "Ashuramaru - Discord Public Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "js",
+    "public"
+  ],
+  "author": "night., Lopion, Apexo",
+  "license": "ISC"
+}
